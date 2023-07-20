@@ -1,10 +1,10 @@
 {
   "name": "feedback-form",
   "version": "1.0.0",
-  "description": "\u0016feedback form for portfolio",
-  "main": "index.js",
+  "description": "feedback form for portfolio",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "author": "",
   "license": "ISC",
